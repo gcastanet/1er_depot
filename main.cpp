@@ -21,6 +21,7 @@ using namespace std;
  */
 int main(int argc, char** argv) {
     cout << "bonjour la planète" <<endl;
+    cout << "Au revoir la planète" <<endl;
     return 0;
 }
 
